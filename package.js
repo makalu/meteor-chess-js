@@ -2,7 +2,7 @@ Package.describe({
   name: 'makalu:chess-js',
   version: '0.0.1',
   summary: "Chess.js 0.9.1 by Jeff Hlywa, repackaged for Meteor.",
-  git: '',
+  git: 'https://github.com/makalu/meteor-chess-js.git',
   documentation: 'README.md'
 });
 
